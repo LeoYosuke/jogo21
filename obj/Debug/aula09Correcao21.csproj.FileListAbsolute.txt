@@ -1,0 +1,7 @@
+D:\Users\leonardo.ykonichi\source\repos\aula09Correcao21\aula09Correcao21\bin\Debug\aula09Correcao21.exe.config
+D:\Users\leonardo.ykonichi\source\repos\aula09Correcao21\aula09Correcao21\bin\Debug\aula09Correcao21.exe
+D:\Users\leonardo.ykonichi\source\repos\aula09Correcao21\aula09Correcao21\bin\Debug\aula09Correcao21.pdb
+D:\Users\leonardo.ykonichi\source\repos\aula09Correcao21\aula09Correcao21\obj\Debug\aula09Correcao21.csproj.AssemblyReference.cache
+D:\Users\leonardo.ykonichi\source\repos\aula09Correcao21\aula09Correcao21\obj\Debug\aula09Correcao21.csproj.CoreCompileInputs.cache
+D:\Users\leonardo.ykonichi\source\repos\aula09Correcao21\aula09Correcao21\obj\Debug\aula09Correcao21.exe
+D:\Users\leonardo.ykonichi\source\repos\aula09Correcao21\aula09Correcao21\obj\Debug\aula09Correcao21.pdb
